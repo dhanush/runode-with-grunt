@@ -1,8 +1,8 @@
 {
-  "name": "CloudDockNodeJS",
+  "name": "runnode-with-grunt",
   "version": "0.0.1",
   "devDependencies": {
-    "grunt": "~0.4.2",
+    "grunt": "latest",
     "grunt-contrib-watch": "latest",
     "grunt-contrib-clean": "latest",
     "grunt-git": "~0.2.4",
